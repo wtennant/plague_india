@@ -1,4 +1,4 @@
-# Data and code for analysis of plague in British India, 1898—1949
+# Data and code for analysis of plague-associated deaths in British India, 1898—1949
 
 This GitHub repository contains the code used to analyse the plague-associated death data in British India from 1898--1949. The pre-print for this analysis can be found here:
 
